@@ -1,4 +1,4 @@
-# STAB1 / Clever-1 expression in macrophage states in ovarian cancer scRNA-seq
+# STAB1 / Clever-1 expression across cell states in ovarian cancer scRNA-seq
 
 ## Overview
 
