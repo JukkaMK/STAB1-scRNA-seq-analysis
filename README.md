@@ -11,6 +11,7 @@ Main questions:
 - Which macrophage states show the strongest STAB1 expression?
 - Which transcriptional features are consistently associated with STAB1-high macrophages across patient samples?
 - How do macrophage-state composition and STAB1 expression vary between Pre-NACT and Post-NACT samples?
+- Is STAB1 expression detectable outside immune cells, particularly in epithelial- or endothelial-like populations?
 
 Because the dataset contains independent Pre-NACT and Post-NACT patients rather than longitudinally paired samples, treatment comparisons are descriptive and are not interpreted as causal effects of chemotherapy.
 
@@ -54,6 +55,20 @@ STAB1-undetected cells should not be interpreted as true biological STAB1-negati
 The exploratory analysis resolved multiple STAB1-positive macrophage phenotypes, including SPP1/APOE/APOC1/C1Q, C1Q/HLA-II and GPNMB/APOC1 lysosomal states. Their functional-marker patterns differed, arguing against interpretation of STAB1-positive macrophages as one uniform activation state.
 
 ![Functional macrophage changes](figures/macrophage_functional_changes_heatmap.png)
+
+### Exploratory STAB1 expression outside immune cells
+
+STAB1 expression was also examined outside the myeloid compartment, with particular attention to epithelial- and endothelial-like cells.
+
+A stringent epithelial-cell screen required detectable STAB1 expression together with at least two epithelial markers (**EPCAM, KRT8, KRT18, KRT19, MUC1**) and absence of seven canonical myeloid markers (**LST1, TYROBP, FCER1G, CD68, C1QA, C1QB, C1QC**). Only **10 cells** satisfied these criteria, indicating that convincing non-myeloid STAB1-positive cells were rare in this dataset.
+
+An exploratory CNV-based analysis provided additional support for a tumor-like epithelial identity in a subset of these cells. However, the very small number of cells and the indirect nature of CNV inference prevent a definitive conclusion that STAB1 is expressed by malignant epithelial cells.
+
+![Exploratory CNV profiles of stringent STAB1-positive epithelial-like cells](figures/strict7_cnv_profile_final_clean.png)
+
+STAB1 expression was also explored in endothelial-like populations, but the evidence was weaker and was not sufficient to support a robust endothelial-specific conclusion.
+
+These observations therefore suggest possible rare STAB1 expression outside the immune compartment, but should be regarded as **exploratory rather than confirmatory**.
 
 ## Exploratory vs reconstructed clustering
 
