@@ -1,0 +1,8 @@
+sample,treatment,high,positive_other,undetected
+sample1,Pre-NACT,1,1,6
+sample2,Pre-NACT,4,12,7
+sample3,Pre-NACT,15,44,27
+sample4,Post-NACT,6,18,12
+sample5,Post-NACT,917,2751,1316
+sample6,Post-NACT,108,323,53
+sample7,Post-NACT,6,15,6

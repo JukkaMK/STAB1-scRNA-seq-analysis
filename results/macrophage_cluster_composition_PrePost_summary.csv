@@ -1,0 +1,7 @@
+leiden,treatment,n_samples,mean_percent,median_percent,min_percent,max_percent
+0,Post-NACT,4,25.97,10.08,5.07,78.67
+0,Pre-NACT,3,9.07,9.39,4.52,13.31
+5,Post-NACT,4,48.98,55.9,9.04,75.08
+5,Pre-NACT,3,57.1,49.54,37.29,84.49
+11,Post-NACT,4,25.04,26.45,12.28,35.0
+11,Pre-NACT,3,33.82,37.15,6.12,58.19

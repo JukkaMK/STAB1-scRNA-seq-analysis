@@ -1,0 +1,15 @@
+sample,treatment,STAB1_group,n_cells,median_total_counts,median_n_genes
+sample1,Pre-NACT,high,1,928.0,528.0
+sample1,Pre-NACT,undetected,6,1173.0,643.0
+sample2,Pre-NACT,high,4,4873.5,1902.0
+sample2,Pre-NACT,undetected,7,4960.0,2077.0
+sample3,Pre-NACT,high,15,3385.0,1523.0
+sample3,Pre-NACT,undetected,27,1403.0,937.0
+sample4,Post-NACT,high,6,4257.5,1797.0
+sample4,Post-NACT,undetected,12,3630.5,1412.5
+sample5,Post-NACT,high,917,2772.0,1371.0
+sample5,Post-NACT,undetected,1316,2956.0,1408.0
+sample6,Post-NACT,high,108,4557.0,1868.0
+sample6,Post-NACT,undetected,53,3785.0,1750.0
+sample7,Post-NACT,high,6,3885.0,1778.0
+sample7,Post-NACT,undetected,6,1398.0,788.5

@@ -1,0 +1,13 @@
+cluster,analysis,treatment,n_samples,mean_percent_STAB1_positive,median_percent_STAB1_positive,mean_STAB1_expression
+0,all_samples,Pre-NACT,3,54.39,68.605,0.92
+0,all_samples,Post-NACT,4,76.772,75.687,1.433
+0,without_sample5,Pre-NACT,3,54.39,68.605,0.92
+0,without_sample5,Post-NACT,3,77.831,77.778,1.448
+5,all_samples,Pre-NACT,3,42.958,37.681,0.454
+5,all_samples,Post-NACT,4,63.919,63.908,0.797
+5,without_sample5,Pre-NACT,3,42.958,37.681,0.454
+5,without_sample5,Post-NACT,3,63.876,63.766,0.778
+11,all_samples,Pre-NACT,3,60.121,69.167,0.719
+11,all_samples,Post-NACT,4,44.318,41.624,0.583
+11,without_sample5,Pre-NACT,3,60.121,69.167,0.719
+11,without_sample5,Post-NACT,3,49.537,50.0,0.667
